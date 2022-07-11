@@ -1,1 +1,1 @@
-# colecci0n_obj
+# Colección de objetos de usuario
